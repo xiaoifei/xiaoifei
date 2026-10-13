@@ -17,27 +17,35 @@ I enjoy building tools that bring together software, music, and creativity.
 
 ### 🌈 Technology Stack
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-D4BB19?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-
-[![Vue](https://img.shields.io/badge/Vue-237A52?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![Gin](https://img.shields.io/badge/Gin-007A99?style=flat-square&logo=go&logoColor=white)](https://gin-gonic.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://python.langchain.com/)
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-[![RocketMQ](https://img.shields.io/badge/RocketMQ-C12229?style=flat-square&logo=apache%20rocketmq&logoColor=white)](https://rocketmq.apache.org/)
-[![Nacos](https://img.shields.io/badge/Nacos-1C8EED?style=flat-square&logo=alibaba-cloud&logoColor=white)](https://nacos.io/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FFA116?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
-
-
+<table>
+  <tr>
+    <img align=left src="assets/si-eyes.gif" alt="祀的水墨风眼珠动画" width="220" />
+    <br><br><br>
+    <p>
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-D4BB19?style=flat-square&logo=javascript&logoColor=white" /></a>
+      <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+      <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+      <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></a>
+      <a href="https://learn.microsoft.com/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" /></a>
+    </p>
+    <p>
+      <a href="https://vuejs.org/"><img alt="Vue" src="https://img.shields.io/badge/Vue-237A52?style=flat-square&logo=vuedotjs&logoColor=white" /></a>
+      <a href="https://gin-gonic.com/"><img alt="Gin" src="https://img.shields.io/badge/Gin-007A99?style=flat-square&logo=go&logoColor=white" /></a>
+      <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /></a>
+      <a href="https://python.langchain.com/"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /></a>
+    </p>
+    <p>
+      <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
+      <a href="https://www.elastic.co/"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" /></a>
+      <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></a>
+      <a href="https://rocketmq.apache.org/"><img alt="RocketMQ" src="https://img.shields.io/badge/RocketMQ-C12229?style=flat-square&logo=apache%20rocketmq&logoColor=white" /></a>
+      <a href="https://nacos.io/"><img alt="Nacos" src="https://img.shields.io/badge/Nacos-1C8EED?style=flat-square&logo=alibaba-cloud&logoColor=white" /></a>
+      <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+      <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+      <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FFA116?style=flat-square&logo=linux&logoColor=white" /></a>
+    </p>
+  </tr>
+</table>
 
 <div align="center" style="margin: 20px 0; width: 100%;">
   <picture>
